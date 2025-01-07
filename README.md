@@ -1,8 +1,15 @@
 # sampleCSC394
+
 # team members
-amaan
+
+amaan g
+
 # project pitch
+
 # front end
+
 # back end
+
 # functional reqs
+
 # non functional reqs
